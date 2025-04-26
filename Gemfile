@@ -73,3 +73,5 @@ gem "sassc-rails", "~> 2.1"
 gem "simple_form", "~> 5.3"
 
 gem "devise", "~> 4.9"
+
+gem "ostruct"
